@@ -23,6 +23,7 @@ jobs:
         run: |
           wget https://raw.githubusercontent.com/yhmtsai/kobo-calendar/master/kobo-calendar.py
           wget https://raw.githubusercontent.com/yhmtsai/kobo-calendar/master/README.md -O README.md
+          mkdir -p ics
           rm -f ics/* 
           pip3 install beautifulsoup4 icalendar
       - name: Generate
