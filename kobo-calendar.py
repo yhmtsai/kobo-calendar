@@ -86,8 +86,12 @@ def handle_list(url, start_thursday):
     assert(day_offset == 7)
     with open("README.md", "a") as f:
         f.write(md_content)
-    with open("log.csv", "a") as f:
-        f.write(csv_content)
+    with open("lastlog_time", "r") as f:
+        line = f.readline().rstrip('\n')
+        lastlog_date = datetime.strptime(line, "%Y-%m-%d")
+    if lastlog_date < start_thursday:
+        with open("log.csv", "a") as f:
+            f.write(csv_content)
 
 if __name__ == "__main__":
     response_blog = request_with_agent("https://www.kobo.com/zh/blog")

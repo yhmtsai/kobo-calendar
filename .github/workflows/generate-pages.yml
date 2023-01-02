@@ -26,10 +26,12 @@ jobs:
           mkdir -p ics
           rm -f ics/* 
           pip3 install beautifulsoup4 icalendar
+          tail -1 log.csv | sed -E "s/([^,]*),.*/\1/g" > lastlog_time
       - name: Generate
         run: |
           python3 kobo-calendar.py
           rm kobo-calendar.py
+          rm lastlog_time
       - name: Upload
         run: |
           git config user.name github-actions
