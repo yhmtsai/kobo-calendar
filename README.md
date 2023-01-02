@@ -1,8 +1,8 @@
 # kobo-calendar
-將 kobo 每個禮拜的 99 清單列出來，並加上相對應得 ics 檔案
-使用 ics 可以將該天特價內容加入至行事曆中
-在使用提醒功能時，請檢查各項是否正確
-另外，有電腦或程式相關的開箱/問題/心得，歡迎分享至無廣告論壇 https://community.tw
+將 kobo 每個禮拜的 99 清單列出來，並加上相對應得 ics 檔案  
+使用 ics 可以將該天特價內容加入至行事曆中  
+在使用提醒功能時，請檢查各項是否正確  
+另外，有電腦或程式相關的開箱/問題/心得，歡迎分享至無廣告論壇 [Community TW](https://community.tw)
 
 # [kobo 99 清單](https://www.kobo.com/zh/blog/一週99書單-人心動輒空了個洞-還有填滿的可能嗎-12-29-1-4)
 - 2022-12-29: [《你的行為，決定你是誰：塑造企業文化最重要的事》](https://www.kobo.com/tw/zh/ebook/5jw7AiSqeD-0AhwTiNJ-Qg)  
