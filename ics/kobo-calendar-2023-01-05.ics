@@ -1,0 +1,15 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//KOBO 99 calendar//
+BEGIN:VEVENT
+SUMMARY:KOBO99 《夜行大腦：從失眠、夢遊到睡眠中躁動、
+ 暴食、性交……，神經科醫生與睡眠障礙的決鬥傳奇，
+ 揭開你不知道的睡眠祕密》
+DTSTART;TZID=Asia/Taipei:20230105T000000
+DTEND;TZID=Asia/Taipei:20230105T235900
+DTSTAMP:20230105T035400Z
+UID:2023-01-05@kobo99
+DESCRIPTION:連結: https://www.kobo.com/tw/zh/ebook/fvq68JxSTTGrIpZ-ZodOf
+ g 優惠碼: koboJan0599
+END:VEVENT
+END:VCALENDAR
