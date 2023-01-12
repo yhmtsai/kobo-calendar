@@ -1,0 +1,15 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//KOBO 99 calendar//
+BEGIN:VEVENT
+SUMMARY:KOBO99 《我喜歡工作，如果可以，不上班的工作更
+ 好：以舒服生活為宗旨，在變動的世界，奪回自己的工
+ 作選擇權！》
+DTSTART;TZID=Asia/Taipei:20230118T000000
+DTEND;TZID=Asia/Taipei:20230118T235900
+DTSTAMP:20230118T035400Z
+UID:2023-01-18@kobo99
+DESCRIPTION:連結: https://www.kobo.com/tw/zh/ebook/yJSNVmam8zOkjLtNuQDYG
+ A 優惠碼: koboJan1899
+END:VEVENT
+END:VCALENDAR
