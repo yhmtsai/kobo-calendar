@@ -101,7 +101,7 @@ if __name__ == "__main__":
         link_url = link.get("href")
         print(link_url)
     #     todo: check the date is in available
-        if m := re.match(r".*99書單.*-([0-9]{1,2})-([0-9]{1,2})-([0-9]{1,2}-[0-9]{1,2})", link_url):
+        if m := re.match(r".*99書單[^-]*-([0-9]{1,2})-([0-9]{1,2})-([0-9]{1,2}-[0-9]{1,2})", link_url):
             print("Get the list from {}-{} to {}".format(m.group(1), m.group(2), m.group(3)))
             start_thursday = get_start_thursday(int(m.group(1)), int(m.group(2)))
             handle_list(link_url, start_thursday)
