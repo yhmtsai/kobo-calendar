@@ -1,0 +1,14 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//KOBO 99 calendar//
+BEGIN:VEVENT
+SUMMARY:KOBO99 《克蘇魯的呼喚：H.P. Lovecraft恐怖小說傑作選
+ （全新重譯版）》
+DTSTART;TZID=Asia/Taipei:20230207T000000
+DTEND;TZID=Asia/Taipei:20230207T235900
+DTSTAMP:20230207T035400Z
+UID:2023-02-07@kobo99
+DESCRIPTION:連結: https://www.kobo.com/tw/zh/ebook/h-p-lovecraft-11 優
+ 惠碼: koboFeb0799
+END:VEVENT
+END:VCALENDAR

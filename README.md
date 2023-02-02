@@ -4,32 +4,32 @@
 在使用提醒功能時，請檢查各項是否正確  
 另外，有電腦或程式相關的開箱/問題/心得，歡迎分享至無廣告論壇 [Community TW](https://community.tw)
 
-# [kobo 99 清單](https://www.kobo.com/zh/blog/一週99書單-1-26-2-1-2)
-- 2023-01-26: [《買下全世界》](https://www.kobo.com/tw/zh/ebook/hEu6jMswoDOMqw2EQkwvxQ)  
-  折扣碼: koboJan2699 提醒我: [ics](ics/kobo-calendar-2023-01-26.ics)  
-  簡介: 世界上許多最成功的公司都位於我們所住的國家以外，並提供我們日常生活中十分倚賴的產業與商品。而本書將詳細介紹了全球投資如何能夠提高投資組合多元化程度，並降低投資組合風險，最後更提供投資人如何用正確的方式與工具來參與全球經濟成長。  
-  <img width="200" src="https://news.objects.frb.io/transforms/bookcoversfb/708310/買下全世界_9b7caa11f5ab43e798472d7a3a255437.jpg">
-- 2023-01-27: [《直覺思維：你超越邏輯的快速決策天賦》](https://www.kobo.com/tw/zh/ebook/hSUXOrhptjq4irvjh27vlA)  
-  折扣碼: koboJan2799 提醒我: [ics](ics/kobo-calendar-2023-01-27.ics)  
-  簡介: 想讓決定又快速又準確，有時靠的不是完整資訊與邏輯思考，而是簡單的「經驗法則」和大腦演化而來的能力所產出的「直覺力」。本書援引心理學研究成果，解說直覺思維的科學原理與運作機制，證實影響決策優劣的關鍵不在於我們能處理多少訊息，而是懂得巧妙掌握運用直覺思維的時機，做出快速且適當的行為決策。  
-  <img width="200" src="https://news.objects.frb.io/transforms/bookcoversfb/708311/直覺思維：你超越邏輯的快速決策天賦_9b7caa11f5ab43e798472d7a3a255437.jpg">
-- 2023-01-28: [《肉體學校：現代人不容錯過的上級戀愛聖經，三島由紀夫超越時代的異色戀愛小說【經典紀念版】》](https://www.kobo.com/tw/zh/ebook/QfGhodvEAD6szwnLkP786g)  
-  折扣碼: koboJan2899 提醒我: [ics](ics/kobo-calendar-2023-01-28.ics)  
-  簡介: 淺野妙子，39歲的服裝設計師，經營著一家洋裁店，擁有品味、經營手腕及美貌，她厭於時代附加女性應溫良賢淑的枷鎖，追尋著男女間未知的風流體驗。然而，在妙子自由又富裕的生活中，心中卻不時湧現如沙漠般的荒蕪，此時，遇見酒保千吉，妙子對他一見鍾情，不可自拔地沉迷在他21歲青春野性的肉體中。  
-  <img width="200" src="https://news.objects.frb.io/transforms/bookcoversfb/708312/肉體學校：現代人不容錯過的上級戀愛聖經，三島由紀夫超越時代的異色戀愛小說【經典紀念版】_9b7caa11f5ab43e798472d7a3a255437.jpg">
-- 2023-01-29: [《渣男動物園》](https://www.kobo.com/tw/zh/ebook/W_63sohr4TW0FwsUjy_nfQ)  
-  折扣碼: koboJan2999 提醒我: [ics](ics/kobo-calendar-2023-01-29.ics)  
-  簡介: 每個柵欄外，都會列出該禽獸的惡劣事蹟，以及園方當前對其施行的嚴刑峻法，希望每位遊園者都能以既嚴肅又輕鬆的心情，有始有終地逛完整個園區。園長保證，只要將「禽獸百科」內化成智慧，從此不再識人不清，澈底告別情路坎坷。因園區外還有眾多禽獸在遊蕩，園長會繼續努力，把漏網的通通抓起來關進去。  
-  <img width="200" src="https://news.objects.frb.io/transforms/bookcoversfb/708313/渣男動物園_9b7caa11f5ab43e798472d7a3a255437.jpg">
-- 2023-01-30: [《這麼多年(上)》](https://www.kobo.com/tw/zh/ebook/TNAo4jaVYjeqnsBHADnUKA)  
-  折扣碼: koboJan3099 提醒我: [ics](ics/kobo-calendar-2023-01-30.ics)  
-  簡介: 李燃會在學校角落霸道地攔住她的去路，又厚著臉皮求她原諒；他會嘻皮笑臉把她氣哭，卻在找她麻煩的女生面前為她撐腰；在她未歸的深夜裡，他孤單的身影，會出現在女宿前的路燈下。直到見夏發現，自己所有的情緒，全都對他不再掩飾，過去的她，一直想改變謹小慎微的自己，但他的視線，卻悄悄地填平了她的缺陷與遺憾，或許，當遇到他的那一刻起，命運，就已經改變了。  
-  <img width="200" src="https://news.objects.frb.io/transforms/bookcoversfb/708314/這麼多年上_9b7caa11f5ab43e798472d7a3a255437.jpg">
-- 2023-01-31: [《情緒恢復：告別玻璃心的韌性練習》](https://www.kobo.com/tw/zh/ebook/30Xv3OYmHTehqOgxkGfLMA)  
-  折扣碼: koboJan3199 提醒我: [ics](ics/kobo-calendar-2023-01-31.ics)  
-  簡介: 作者分析人類性格構成的三要素：思想、情緒、行為，其三者之間的連動性，要告訴你如何專注在可控制的「思想」與「行為」兩方面，而不在不可控制的「情緒」上鑽牛角尖；其中，欲改變行動又比改變思考來得困難（試想要你每天早起半小時是多麼地不容易），因此作者建議從思考層面著手，透過用上方法，利用三者間的連動性，進而處理到難搞的情緒。所以處理情緒的方法，就是：先別管情緒了！思考才是強化恢復力的關鍵！  
-  <img width="200" src="https://news.objects.frb.io/transforms/bookcoversfb/708315/情緒恢復：告別玻璃心的韌性練習_9b7caa11f5ab43e798472d7a3a255437.jpg">
-- 2023-02-01: [《為工作而活：生存、勞動、追求幸福感，一部人類的工作大歷史》](https://www.kobo.com/tw/zh/ebook/jNZpi1R-gjKiF2tSISEhhQ)  
-  折扣碼: koboFeb0199 提醒我: [ics](ics/kobo-calendar-2023-02-01.ics)  
-  簡介: 本書結合人類學、考古學、生物學、物理學和經濟學等多學科的觀點，從人類誕生一路談到AI時代，解讀不同時代驅使人類工作的動力。本書也點出，我們今天之所以把工作看得比狩獵採集祖先還要重要，就在於我們的工作模式與工作觀，隨著文明變革發生了多次改變。  
-  <img width="200" src="https://news.objects.frb.io/transforms/bookcoversfb/708316/為工作而活：生存、勞動、追求幸福感，一部人類的工作大歷史_9b7caa11f5ab43e798472d7a3a255437.jpg">
+# [kobo 99 清單](https://www.kobo.com/zh/blog/一週99書單-明明維持生活可以很單純-我們到底在追求什麼-2-2-2-8)
+- 2023-02-02: [《我的性格，我決定：更有自信,更高EQ,打造理想人生的性格養成計畫》](https://www.kobo.com/tw/zh/ebook/eq-20)  
+  折扣碼: koboFeb0299 提醒我: [ics](ics/kobo-calendar-2023-02-02.ics)  
+  簡介: 「性格」的迷思無所不在，阻礙我們的學習、職涯、擇偶，甚至人際關係。從現在開始，忘掉那些愚蠢的刻版印象和無謂的性格分類，不論心理測驗怎麼描述你、同學或同事怎麼定義你，跟隨本書提供的實用策略，積極推動自己做出改變。  
+  <img width="200" src="https://news.objects.frb.io/transforms/bookcoversfb/718292/我的性格，我決定：更有自信更高EQ打造理想人生的性格養成計畫_9b7caa11f5ab43e798472d7a3a255437.jpg">
+- 2023-02-03: [《富有的祕訣》](https://www.kobo.com/tw/zh/ebook/YtmKbPfW1z2WRIQa338qog)  
+  折扣碼: koboFeb0399 提醒我: [ics](ics/kobo-calendar-2023-02-03.ics)  
+  簡介: 本書沒有一套通用的正確答案，但你一定能在其中找到最適合自己的翔實建議，而且重點是，這些建議很實際，是每個人都能做得到的。現在就跟著NO.1的理財作家一起實踐富有的祕訣吧，你會親眼見證自己的錢包變得愈來愈豐滿，實現真正的財務健全。  
+  <img width="200" src="https://news.objects.frb.io/transforms/bookcoversfb/718293/富有的祕訣_9b7caa11f5ab43e798472d7a3a255437.jpg">
+- 2023-02-04: [《摩丑世代》](https://www.kobo.com/tw/zh/ebook/1auwwL3n7ja3gwIfT3EE8w)  
+  折扣碼: koboFeb0499 提醒我: [ics](ics/kobo-calendar-2023-02-04.ics)  
+  簡介: 西班牙導演聖地亞哥・羅倫佐，拿下西班牙電影最高殊榮哥雅獎後，厭倦了名聲帶來的浮華和紛擾，決定搬到一個只有七個人的小鎮，過著每日砍柴、喝咖啡及做模型的日子，背離電影界的繁忙勞碌，他在小鎮裡意外找到他所追求的快樂，並寫下《摩丑世代》這個故事。這是一個充滿「摩丑族」的時代。  
+  <img width="200" src="https://news.objects.frb.io/transforms/bookcoversfb/718294/摩丑世代_9b7caa11f5ab43e798472d7a3a255437.jpg">
+- 2023-02-05: [《從奈米到光年：有趣的度量衡簡史》](https://www.kobo.com/tw/zh/ebook/WLwMRVRGgD6uOkeLyK06Jw)  
+  折扣碼: koboFeb0599 提醒我: [ics](ics/kobo-calendar-2023-02-05.ics)  
+  簡介: 無論是中國歷代度量衡，還是英制、美制的規定，世界上眾多「單位」爭奇鬥豔。李開周老師首次發揮測量工程師的工作專業，結合詳實的歷史研究及考證，探究世界各國對度量衡的定義與演進發展的有趣歷程，一部關於度量衡的千年演化史！  
+  <img width="200" src="https://news.objects.frb.io/transforms/bookcoversfb/718295/從奈米到光年：有趣的度量衡簡史_9b7caa11f5ab43e798472d7a3a255437.jpg">
+- 2023-02-06: [《人間地獄　語言為器》](https://www.kobo.com/tw/zh/ebook/E6GawPR76Dmy0uSCA1n_Mg)  
+  折扣碼: koboFeb0699 提醒我: [ics](ics/kobo-calendar-2023-02-06.ics)  
+  簡介: 這個人世間就是地獄。即便是地獄，若是能自得其樂，那麼地獄照樣能讓人感覺趣味橫生。而我們可以嘗試運用的武器，也就是人類最重要的發明──語言，來盡情享受在這個地獄逍遙遊。  
+  <img width="200" src="https://news.objects.frb.io/transforms/bookcoversfb/718296/人間地獄-語言為器_9b7caa11f5ab43e798472d7a3a255437.jpg">
+- 2023-02-07: [《克蘇魯的呼喚：H.P. Lovecraft恐怖小說傑作選（全新重譯版）》](https://www.kobo.com/tw/zh/ebook/h-p-lovecraft-11)  
+  折扣碼: koboFeb0799 提醒我: [ics](ics/kobo-calendar-2023-02-07.ics)  
+  簡介: 本書收錄了「克蘇魯神話」中，最具代表性的八則故事，請靜下心、深呼吸，慢慢閱讀，喚醒你內心深處，那股對未知事物的恐懼，並勇敢面對源自久遠古老年代的超自然威脅。  
+  <img width="200" src="https://news.objects.frb.io/transforms/bookcoversfb/718297/克蘇魯的呼喚：H.P.-Lovecraft恐怖小說傑作選（全新重譯版）_9b7caa11f5ab43e798472d7a3a255437.jpg">
+- 2023-02-08: [《隱形戰：中國如何在美國菁英沉睡時悄悄奪取世界霸權》](https://www.kobo.com/tw/zh/ebook/0JAB46t62z6lRz9ltL46SQ)  
+  折扣碼: koboFeb0899 提醒我: [ics](ics/kobo-calendar-2023-02-08.ics)  
+  簡介: 新聞媒體經常強調俄國是美國國家安全的最大威脅，其實真正的危險在更遠的東方中國。正當美國當權者被許多事情分心，顯得雜亂無章，中國已經對美國經濟、軍事、外交、科技、教育和基礎建設等六個面向發動前線戰爭，而且大獲全勝。5G成為竊取情報的利器，一帶一路讓新興國家喪失主權，美國空軍退休准將、中國戰略專家羅伯‧斯伯汀，揭露中共如何滲透美國、損害美國國家安全的高明騙術。  
+  <img width="200" src="https://news.objects.frb.io/transforms/bookcoversfb/718298/隱形戰：中國如何在美國菁英沉睡時悄悄奪取世界霸權_9b7caa11f5ab43e798472d7a3a255437.jpg">
