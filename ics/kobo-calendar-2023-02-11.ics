@@ -1,0 +1,14 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//KOBO 99 calendar//
+BEGIN:VEVENT
+SUMMARY:KOBO99 《傀儡師殺手》
+DTSTART;TZID=Asia/Taipei:20230211T000000
+DTEND;TZID=Asia/Taipei:20230211T235900
+DTSTAMP:20230211T035400Z
+UID:2023-02-11@kobo99
+DESCRIPTION:連結: https://www.kobo.com/tw/zh/ebook/fFxuX-yaNzCjwx3fleLAl
+ w?utm_source=twblog&utm_medium=list&utm_campaign=dd99-202302090215 優惠
+ 碼: koboFeb1199
+END:VEVENT
+END:VCALENDAR
