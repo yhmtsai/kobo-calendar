@@ -64,7 +64,7 @@ def generate_gcal_link(title, book_link, promo, date):
 
 def generate_md_section(day, title, book_link, summary, img_link, promo, ics_file, gcal_url):
     md_str = "- {:%Y-%m-%d}: [{}]({})  \n".format(day, title, book_link)
-    md_str += "  折扣碼: {} 提醒我: [ics]({}) [google calendar]({})  \n".format(promo, ics_file, gcal_url)
+    md_str += "  折扣碼: {} 提醒我: [ics]({}) | [google calendar]({})  \n".format(promo, ics_file, gcal_url)
     md_str += "  簡介: {}  \n".format(summary)
     md_str += '  <img width="200" src="{}">\n'.format(img_link)
     return md_str
