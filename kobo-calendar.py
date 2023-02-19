@@ -2,8 +2,9 @@ import requests
 from bs4 import BeautifulSoup
 import re
 from icalendar import Calendar, Event
-from datetime import datetime, timedelta
+from datetime import datetime, timedelta, timezone
 import pytz
+from urllib.parse import quote_plus
 
 def request_with_agent(url):
 #     Need to use User-Agent to get the data
@@ -50,9 +51,20 @@ def write_ics(folder, date, cal):
         f.write(cal.to_ical())
     return filename
 
-def generate_md_section(day, title, book_link, summary, img_link, promo, ics_file):
+def generate_gcal_link(title, book_link, promo, date):
+    title_string = quote_plus("KOBO99 {}".format(title))
+    desc_string = quote_plus("連結: {} 優惠碼: {}".format(book_link, promo))
+    utc_8 = timezone(timedelta(hours=8))
+    start = datetime(date.year, date.month, date.day, 0, 0, tzinfo=utc_8)
+    end = datetime(date.year, date.month, date.day, 23,59, tzinfo=utc_8)
+    time_format = "%Y%m%dT%H%M%S"
+    date_string = quote_plus("{}/{}".format(start.strftime(time_format), end.strftime(time_format)))
+    url = "https://www.google.com/calendar/render?action=TEMPLATE&text={}&details={}&dates={}&ctz=Asia/Taipei".format(title_string, desc_string, date_string)
+    return url
+
+def generate_md_section(day, title, book_link, summary, img_link, promo, ics_file, gcal_url):
     md_str = "- {:%Y-%m-%d}: [{}]({})  \n".format(day, title, book_link)
-    md_str += "  折扣碼: {} 提醒我: [ics]({})  \n".format(promo,ics_file)
+    md_str += "  折扣碼: {} 提醒我: [ics]({}) [google calendar]({})  \n".format(promo, ics_file, gcal_url)
     md_str += "  簡介: {}  \n".format(summary)
     md_str += '  <img width="200" src="{}">\n'.format(img_link)
     return md_str
@@ -79,7 +91,8 @@ def handle_list(url, start_thursday):
         promo_day = start_thursday + timedelta(days=day_offset)
         ics = generate_ics(title, book_link, promo, promo_day)
         ics_file = write_ics("ics", promo_day, ics)
-        md_content += generate_md_section(promo_day, title, book_link, summary, img_link, promo, ics_file)
+        gcal_url = generate_gcal_link(title, book_link, promo, promo_day)
+        md_content += generate_md_section(promo_day, title, book_link, summary, img_link, promo, ics_file, gcal_url)
         # date, title, link
         csv_content += "{:%Y-%m-%d},{},{}\n".format(promo_day, title, book_link)
         day_offset = day_offset + 1
