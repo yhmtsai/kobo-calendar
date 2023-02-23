@@ -1,0 +1,15 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//KOBO 99 calendar//
+BEGIN:VEVENT
+SUMMARY:KOBO99 《2050科幻大成真：超能力、心智控制、人造
+ 記憶、遺忘藥丸、奈米機器人\, 即將改變我們的世界》
+DTSTART;TZID=Asia/Taipei:20230228T000000
+DTEND;TZID=Asia/Taipei:20230228T235900
+DTSTAMP:20230228T035400Z
+UID:2023-02-28@kobo99
+DESCRIPTION:連結: https://www.kobo.com/tw/zh/ebook/RhvI-vKXDjK4hUKkPhaVB
+ Q?utm_source=twblog&utm_medium=list&utm_campaign=dd99-202302090228 優惠
+ 碼: koboFeb2899
+END:VEVENT
+END:VCALENDAR
