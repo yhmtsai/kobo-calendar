@@ -118,8 +118,17 @@ if __name__ == "__main__":
     #           一週99書單-明明維持生活可以很單純-我們到底在追求什麼-2-2-2-8
     #           一週99書單-1-26-2-1-2
     #           一週99書單-1-12-1-18
+    #           weekly-99-2023-w10
         if m := re.match(r".*99書單.*-([0-9]{1,2})-([0-9]{1,2})-([0-9]{1,2}-[0-9]{1,2})(-.*)?", link_url):
             print("Get the list from {}-{} to {}".format(m.group(1), m.group(2), m.group(3)))
             start_thursday = get_start_thursday(int(m.group(1)), int(m.group(2)))
+            handle_list(link_url, start_thursday)
+            break
+        elif m := re.match(r".*weekly-99-2023-w([0-9][0-9])", link_url):
+            year_start_thursday = datetime(2023, 1, 5)
+            print("Get the list for week {}".format(m.group(1)))
+            delta = timedelta(weeks=int(m.group(1))-2)
+            date = year_start_thursday + delta
+            start_thursday = get_start_thursday(date.month, date.day)
             handle_list(link_url, start_thursday)
             break
