@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//KOBO 99 calendar//
+BEGIN:VEVENT
+SUMMARY:KOBO99 《廁所裡的心理學：每天14分鐘大師開課！人
+ 格障礙、拖延症、潛意識、吸引力法則……拆解100個最
+ 核心的心理學知識》
+DTSTART;TZID=Asia/Taipei:20230307T000000
+DTEND;TZID=Asia/Taipei:20230307T235900
+DTSTAMP:20230307T035400Z
+UID:2023-03-07@kobo99
+DESCRIPTION:連結: https://www.kobo.com/tw/zh/ebook/sLfZ9puJnzChmp2ulaQpw
+ w?utm_source=twblog&utm_medium=list&utm_campaign=dd99-202303020308 優惠
+ 碼: koboMar0799
+END:VEVENT
+END:VCALENDAR
