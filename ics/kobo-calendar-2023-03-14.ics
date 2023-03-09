@@ -1,0 +1,15 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//KOBO 99 calendar//
+BEGIN:VEVENT
+SUMMARY:KOBO99 《時間裡的孩子【首刷作者燙金簽名珍藏版
+ 】：BBC電影《記憶中的擁抱》改編原著，英國國民作家
+ 伊恩‧麥克尤恩經典作繁中版首譯》
+DTSTART;TZID=Asia/Taipei:20230314T000000
+DTEND;TZID=Asia/Taipei:20230314T235900
+DTSTAMP:20230314T035400Z
+UID:2023-03-14@kobo99
+DESCRIPTION:連結: https://www.kobo.com/tw/zh/ebook/bbc-11?utm_source=twb
+ log&utm_medium=list&utm_campaign=dd99_20230314 優惠碼: koboMar1499
+END:VEVENT
+END:VCALENDAR
