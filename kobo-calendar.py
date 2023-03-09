@@ -128,9 +128,9 @@ if __name__ == "__main__":
         elif m := re.match(r".*weekly-(dd)?99-2023-w([0-9][0-9])", link_url):
             year_start_thursday = datetime(2023, 1, 5)
             print("Get the list for week {}".format(m.group(2)))
-            delta = timedelta(weeks=int(m.group(1))-1)
+            delta = timedelta(weeks=int(m.group(2))-1)
             if m.group(1) != "dd":
-                delta = timedelta(weeks=int(m.group(1))-2)
+                delta = timedelta(weeks=int(m.group(2))-2)
             date = year_start_thursday + delta
             start_thursday = get_start_thursday(date.month, date.day)
             handle_list(link_url, start_thursday)
