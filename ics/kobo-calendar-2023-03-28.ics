@@ -1,0 +1,14 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//KOBO 99 calendar//
+BEGIN:VEVENT
+SUMMARY:KOBO99 《錢意識》
+DTSTART;TZID=Asia/Taipei:20230328T000000
+DTEND;TZID=Asia/Taipei:20230328T235900
+DTSTAMP:20230328T035400Z
+UID:2023-03-28@kobo99
+DESCRIPTION:連結: https://www.kobo.com/tw/zh/ebook/-t9-gKfBRjCEALQdszda7
+ A?utm_source=twblog&utm_medium=list&utm_campaign=dd99_20230321 優惠碼: 
+ koboMar2199
+END:VEVENT
+END:VCALENDAR

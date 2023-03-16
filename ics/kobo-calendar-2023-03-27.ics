@@ -1,0 +1,15 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//KOBO 99 calendar//
+BEGIN:VEVENT
+SUMMARY:KOBO99 《那些成功者都有一套自己的筆記規則: 活用
+ 64張圖\, 讓手帳一目暸然的歸納整理術! (復刻版)》
+DTSTART;TZID=Asia/Taipei:20230327T000000
+DTEND;TZID=Asia/Taipei:20230327T235900
+DTSTAMP:20230327T035400Z
+UID:2023-03-27@kobo99
+DESCRIPTION:連結: https://www.kobo.com/tw/zh/ebook/kkKTgtvbQDOL1j5FDI7xn
+ A?utm_source=twblog&utm_medium=list&utm_campaign=dd99_20230320 優惠碼: 
+ koboMar2099
+END:VEVENT
+END:VCALENDAR

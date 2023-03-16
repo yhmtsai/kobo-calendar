@@ -1,0 +1,14 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//KOBO 99 calendar//
+BEGIN:VEVENT
+SUMMARY:KOBO99 《區塊鏈革命》
+DTSTART;TZID=Asia/Taipei:20230324T000000
+DTEND;TZID=Asia/Taipei:20230324T235900
+DTSTAMP:20230324T035400Z
+UID:2023-03-24@kobo99
+DESCRIPTION:連結: https://www.kobo.com/tw/zh/ebook/zqZ7i_3fljW25q1Jv6K9o
+ g?utm_source=twblog&utm_medium=list&utm_campaign=dd99_20230317 優惠碼: 
+ koboMar1799
+END:VEVENT
+END:VCALENDAR

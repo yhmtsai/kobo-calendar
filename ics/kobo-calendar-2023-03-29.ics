@@ -1,0 +1,15 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//KOBO 99 calendar//
+BEGIN:VEVENT
+SUMMARY:KOBO99 《超男進化論：在亂流中找回掌舵力的人生
+ 指南》
+DTSTART;TZID=Asia/Taipei:20230329T000000
+DTEND;TZID=Asia/Taipei:20230329T235900
+DTSTAMP:20230329T035400Z
+UID:2023-03-29@kobo99
+DESCRIPTION:連結: https://www.kobo.com/tw/zh/ebook/4ScF8CWJdjyAftvrg89jS
+ g?utm_source=twblog&utm_medium=list&utm_campaign=dd99_20230322 優惠碼: 
+ koboMar2299
+END:VEVENT
+END:VCALENDAR

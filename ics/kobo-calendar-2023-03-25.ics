@@ -1,0 +1,13 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//KOBO 99 calendar//
+BEGIN:VEVENT
+SUMMARY:KOBO99 《清單Hold不住的人生》
+DTSTART;TZID=Asia/Taipei:20230325T000000
+DTEND;TZID=Asia/Taipei:20230325T235900
+DTSTAMP:20230325T035400Z
+UID:2023-03-25@kobo99
+DESCRIPTION:連結: https://www.kobo.com/tw/zh/ebook/hold-17?utm_source=tw
+ blog&utm_medium=list&utm_campaign=dd99_20230318 優惠碼: koboMar1899
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,14 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//KOBO 99 calendar//
+BEGIN:VEVENT
+SUMMARY:KOBO99 《最強行業》
+DTSTART;TZID=Asia/Taipei:20230323T000000
+DTEND;TZID=Asia/Taipei:20230323T235900
+DTSTAMP:20230323T035400Z
+UID:2023-03-23@kobo99
+DESCRIPTION:連結: https://www.kobo.com/tw/zh/ebook/q--O_vLSyzCEPmdjBcDST
+ g?utm_source=twblog&utm_medium=list&utm_campaign=dd99_20230316 優惠碼: 
+ koboMar1699
+END:VEVENT
+END:VCALENDAR
