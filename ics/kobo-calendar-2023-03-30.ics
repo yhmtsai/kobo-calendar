@@ -1,0 +1,14 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//KOBO 99 calendar//
+BEGIN:VEVENT
+SUMMARY:KOBO99 《明日的記憶，靠今天的練習》
+DTSTART;TZID=Asia/Taipei:20230330T000000
+DTEND;TZID=Asia/Taipei:20230330T235900
+DTSTAMP:20230330T035400Z
+UID:2023-03-30@kobo99
+DESCRIPTION:連結: https://www.kobo.com/tw/zh/ebook/Rp2TKiObjzGWwc9iwtYoJ
+ g?utm_source=twblog&utm_medium=list&utm_campaign=dd99_20230316 優惠碼: 
+ koboMar2399
+END:VEVENT
+END:VCALENDAR

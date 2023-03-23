@@ -1,0 +1,14 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//KOBO 99 calendar//
+BEGIN:VEVENT
+SUMMARY:KOBO99 《超維度思考》
+DTSTART;TZID=Asia/Taipei:20230404T000000
+DTEND;TZID=Asia/Taipei:20230404T235900
+DTSTAMP:20230404T035400Z
+UID:2023-04-04@kobo99
+DESCRIPTION:連結: https://www.kobo.com/tw/zh/ebook/jDcUvNnnQTK3UOySLZLeA
+ g?utm_source=twblog&utm_medium=list&utm_campaign=dd99_20230321 優惠碼: 
+ koboMar2899
+END:VEVENT
+END:VCALENDAR
