@@ -1,0 +1,15 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//KOBO 99 calendar//
+BEGIN:VEVENT
+SUMMARY:KOBO99 《美國的決斷：台灣人應該知道的美國外交
+ 思維與決策》
+DTSTART;TZID=Asia/Taipei:20230407T000000
+DTEND;TZID=Asia/Taipei:20230407T235900
+DTSTAMP:20230407T035400Z
+UID:2023-04-07@kobo99
+DESCRIPTION:連結: https://www.kobo.com/tw/zh/ebook/mhWiGXah-zCrPPUUsOos2
+ A?utm_source=twblog&utm_medium=list&utm_campaign=dd99_20230331 優惠碼: 
+ koboMar3199
+END:VEVENT
+END:VCALENDAR

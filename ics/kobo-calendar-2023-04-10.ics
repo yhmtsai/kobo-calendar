@@ -1,0 +1,14 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//KOBO 99 calendar//
+BEGIN:VEVENT
+SUMMARY:KOBO99 《氧生－－21世紀最有效的防癌新革命》
+DTSTART;TZID=Asia/Taipei:20230410T000000
+DTEND;TZID=Asia/Taipei:20230410T235900
+DTSTAMP:20230410T035400Z
+UID:2023-04-10@kobo99
+DESCRIPTION:連結: https://www.kobo.com/tw/zh/ebook/S1bkCQY40zO-GcCpEheSH
+ w?utm_source=twblog&utm_medium=list&utm_campaign=dd99_20230403 優惠碼: 
+ koboApr0399
+END:VEVENT
+END:VCALENDAR

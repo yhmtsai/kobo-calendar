@@ -1,0 +1,14 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//KOBO 99 calendar//
+BEGIN:VEVENT
+SUMMARY:KOBO99 《你明明心好累，為何還裝作無所謂？》
+DTSTART;TZID=Asia/Taipei:20230409T000000
+DTEND;TZID=Asia/Taipei:20230409T235900
+DTSTAMP:20230409T035400Z
+UID:2023-04-09@kobo99
+DESCRIPTION:連結: https://www.kobo.com/tw/zh/ebook/7m1wwaJvDjabacWKlAqy3
+ Q?utm_source=twblog&utm_medium=list&utm_campaign=dd99_20230402 優惠碼: 
+ koboApr0299
+END:VEVENT
+END:VCALENDAR
