@@ -1,0 +1,15 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//KOBO 99 calendar//
+BEGIN:VEVENT
+SUMMARY:KOBO99 《睡眠腦科學：從腦科學探討猝睡症、睡眠
+ 呼吸中止症、失眠、夢魘等各種睡眠障礙》
+DTSTART;TZID=Asia/Taipei:20230416T000000
+DTEND;TZID=Asia/Taipei:20230416T235900
+DTSTAMP:20230416T035400Z
+UID:2023-04-16@kobo99
+DESCRIPTION:連結: https://www.kobo.com/tw/zh/ebook/vertGRL44Dmqv_19hEl9i
+ g?utm_source=twblog&utm_medium=list&utm_campaign=dd99_20230409 優惠碼: 
+ koboApr0999
+END:VEVENT
+END:VCALENDAR

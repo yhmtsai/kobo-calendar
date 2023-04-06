@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//KOBO 99 calendar//
+BEGIN:VEVENT
+SUMMARY:KOBO99 《頂尖外商顧問的超效問題解決術 ：教你搞
+ 定任性主管、刁難客戶，解決無理難題，提升3倍工作效
+ 率的43則實戰策略》
+DTSTART;TZID=Asia/Taipei:20230419T000000
+DTEND;TZID=Asia/Taipei:20230419T235900
+DTSTAMP:20230419T035400Z
+UID:2023-04-19@kobo99
+DESCRIPTION:連結: https://www.kobo.com/tw/zh/ebook/tABpUz4DsDyaKhJdJ9oF0
+ Q?utm_source=twblog&utm_medium=list&utm_campaign=dd99_20230412 優惠碼: 
+ koboApr1299
+END:VEVENT
+END:VCALENDAR
