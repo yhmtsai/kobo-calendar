@@ -1,0 +1,14 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//KOBO 99 calendar//
+BEGIN:VEVENT
+SUMMARY:KOBO99 《俄羅斯美食史：包心菜和魚子醬》
+DTSTART;TZID=Asia/Taipei:20230422T000000
+DTEND;TZID=Asia/Taipei:20230422T235900
+DTSTAMP:20230422T035400Z
+UID:2023-04-22@kobo99
+DESCRIPTION:連結: https://www.kobo.com/tw/zh/ebook/GTWTkqBfezGt3y1MK5c9b
+ Q?utm_source=twblog&utm_medium=list&utm_campaign=dd99_20230415 優惠碼: 
+ koboApr1599
+END:VEVENT
+END:VCALENDAR

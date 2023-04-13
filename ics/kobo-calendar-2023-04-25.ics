@@ -1,0 +1,15 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//KOBO 99 calendar//
+BEGIN:VEVENT
+SUMMARY:KOBO99 《人類崛起：從直立行走、煮食生活到抽象
+ 語言，演化如何造就了現在的我們？》
+DTSTART;TZID=Asia/Taipei:20230425T000000
+DTEND;TZID=Asia/Taipei:20230425T235900
+DTSTAMP:20230425T035400Z
+UID:2023-04-25@kobo99
+DESCRIPTION:連結: https://www.kobo.com/tw/zh/ebook/IztVYaRDujC0ZV33PCp6o
+ A?utm_source=twblog&utm_medium=list&utm_campaign=dd99_20230418 優惠碼: 
+ koboApr1899
+END:VEVENT
+END:VCALENDAR

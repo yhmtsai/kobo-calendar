@@ -1,0 +1,13 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//KOBO 99 calendar//
+BEGIN:VEVENT
+SUMMARY:KOBO99 《KGB間諜式記憶術》
+DTSTART;TZID=Asia/Taipei:20230426T000000
+DTEND;TZID=Asia/Taipei:20230426T235900
+DTSTAMP:20230426T035400Z
+UID:2023-04-26@kobo99
+DESCRIPTION:連結: https://www.kobo.com/tw/zh/ebook/kgb-4?utm_source=twbl
+ og&utm_medium=list&utm_campaign=dd99_20230419 優惠碼: koboApr1999
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,15 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//KOBO 99 calendar//
+BEGIN:VEVENT
+SUMMARY:KOBO99 《記憶無非徹底看透的一切：2022諾貝爾文學
+ 桂冠安妮‧艾諾經典小說（電影《正發生》原著》
+DTSTART;TZID=Asia/Taipei:20230424T000000
+DTEND;TZID=Asia/Taipei:20230424T235900
+DTSTAMP:20230424T035400Z
+UID:2023-04-24@kobo99
+DESCRIPTION:連結: https://www.kobo.com/tw/zh/ebook/HogulzoWFjmgL4b4zlFck
+ Q?utm_source=twblog&utm_medium=list&utm_campaign=dd99_20230417 優惠碼: 
+ koboApr1799
+END:VEVENT
+END:VCALENDAR
