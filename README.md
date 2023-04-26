@@ -27,7 +27,7 @@
   簡介: 日本超人氣療癒系插畫家深町なか獻上暖心系列第三彈。時光既不能倒轉，也無法暫停。就算獨自佇足，四季依舊不停流轉。我在仍帶著微涼的季節許下心願──當春天花開時，希望我們都能面帶笑容迎接。  
   <img width="200" src="https://news.objects.frb.io/transforms/bookcoversfb/812308/聽見花開的聲音_9b7caa11f5ab43e798472d7a3a255437.jpg">
 - 2023-04-25: [《跟錢做朋友》](https://www.kobo.com/tw/zh/ebook/1qx3gdp9hTGns7guWNA8yQ?utm_source=twblog&utm_medium=list&utm_campaign=dd99_20230425)  
-  折扣碼: koboApr2499 提醒我: [ics](ics/kobo-calendar-2023-04-25.ics) | [google calendar](https://www.google.com/calendar/render?action=TEMPLATE&text=KOBO99+%E3%80%8A%E8%B7%9F%E9%8C%A2%E5%81%9A%E6%9C%8B%E5%8F%8B%E3%80%8B&details=%E9%80%A3%E7%B5%90%3A+https%3A%2F%2Fwww.kobo.com%2Ftw%2Fzh%2Febook%2F1qx3gdp9hTGns7guWNA8yQ%3Futm_source%3Dtwblog%26utm_medium%3Dlist%26utm_campaign%3Ddd99_20230425+%E5%84%AA%E6%83%A0%E7%A2%BC%3A+koboApr2499&dates=20230425T000000%2F20230425T235900&ctz=Asia/Taipei)  
+  折扣碼: koboApr2599 提醒我: [ics](ics/kobo-calendar-2023-04-25.ics) | [google calendar](https://www.google.com/calendar/render?action=TEMPLATE&text=KOBO99+%E3%80%8A%E8%B7%9F%E9%8C%A2%E5%81%9A%E6%9C%8B%E5%8F%8B%E3%80%8B&details=%E9%80%A3%E7%B5%90%3A+https%3A%2F%2Fwww.kobo.com%2Ftw%2Fzh%2Febook%2F1qx3gdp9hTGns7guWNA8yQ%3Futm_source%3Dtwblog%26utm_medium%3Dlist%26utm_campaign%3Ddd99_20230425+%E5%84%AA%E6%83%A0%E7%A2%BC%3A+koboApr2599&dates=20230425T000000%2F20230425T235900&ctz=Asia/Taipei)  
   簡介: 從小到大，我們在學校接受各式各樣的教育，卻忽略了教導最重要的觀念──如何跟錢當好朋友。由於缺乏對金錢的認識，如今許多大人的理財觀念一塌糊塗，錢不夠用、存不到錢、月光族、卡奴、債務纏身……都是與誤解金錢的惡果。  
   <img width="200" src="https://news.objects.frb.io/transforms/bookcoversfb/812675/跟錢做朋友_9b7caa11f5ab43e798472d7a3a255437.jpg">
 - 2023-04-26: [《揭開自己的謊言》](https://www.kobo.com/tw/zh/ebook/m08TDL_BIziTPBuf4R_peA?utm_source=twblog&utm_medium=list&utm_campaign=dd99_20230426)  
