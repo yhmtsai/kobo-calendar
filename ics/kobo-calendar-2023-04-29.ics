@@ -1,0 +1,14 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//KOBO 99 calendar//
+BEGIN:VEVENT
+SUMMARY:KOBO99 《蘭的10個誘惑（二版）》
+DTSTART;TZID=Asia/Taipei:20230429T000000
+DTEND;TZID=Asia/Taipei:20230429T235900
+DTSTAMP:20230429T035400Z
+UID:2023-04-29@kobo99
+DESCRIPTION:連結: https://www.kobo.com/tw/zh/ebook/e0ekTx-vEDWkvcmI92CYP
+ Q?utm_source=twblog&utm_medium=list&utm_campaign=dd99_20230429 優惠碼: 
+ koboApr2999
+END:VEVENT
+END:VCALENDAR

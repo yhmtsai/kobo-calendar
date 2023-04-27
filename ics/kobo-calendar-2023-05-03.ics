@@ -1,0 +1,14 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//KOBO 99 calendar//
+BEGIN:VEVENT
+SUMMARY:KOBO99 《你的人生難關，三國都發生過！》
+DTSTART;TZID=Asia/Taipei:20230503T000000
+DTEND;TZID=Asia/Taipei:20230503T235900
+DTSTAMP:20230503T035400Z
+UID:2023-05-03@kobo99
+DESCRIPTION:連結: https://www.kobo.com/tw/zh/ebook/r5_Ci90sWjyNLenU9tLNE
+ w?utm_source=twblog&utm_medium=list&utm_campaign=dd99_20230503 優惠碼: 
+ koboMay0399
+END:VEVENT
+END:VCALENDAR
