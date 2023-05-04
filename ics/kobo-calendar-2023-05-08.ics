@@ -1,0 +1,13 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//KOBO 99 calendar//
+BEGIN:VEVENT
+SUMMARY:KOBO99 《S.T.E.P.》
+DTSTART;TZID=Asia/Taipei:20230508T000000
+DTEND;TZID=Asia/Taipei:20230508T235900
+DTSTAMP:20230508T035400Z
+UID:2023-05-08@kobo99
+DESCRIPTION:連結: https://www.kobo.com/tw/zh/ebook/s-t-e-p-1?utm_source=
+ twblog&utm_medium=list&utm_campaign=dd99_20230508 優惠碼: koboMay0899
+END:VEVENT
+END:VCALENDAR

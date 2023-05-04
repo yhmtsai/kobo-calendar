@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//KOBO 99 calendar//
+BEGIN:VEVENT
+SUMMARY:KOBO99 《你該殺死那個胖子嗎？:為了多數人幸福而
+ 犧牲少數人權益是對的嗎？我們今日該如何看待道德哲
+ 學的經典難題》
+DTSTART;TZID=Asia/Taipei:20230504T000000
+DTEND;TZID=Asia/Taipei:20230504T235900
+DTSTAMP:20230504T035400Z
+UID:2023-05-04@kobo99
+DESCRIPTION:連結: https://www.kobo.com/tw/zh/ebook/QkfGmRTetDmfIDqCHqZC1
+ w?utm_source=twblog&utm_medium=list&utm_campaign=dd99_20230504 優惠碼: 
+ koboMay0499
+END:VEVENT
+END:VCALENDAR

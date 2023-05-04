@@ -1,0 +1,15 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//KOBO 99 calendar//
+BEGIN:VEVENT
+SUMMARY:KOBO99 《愛情市場學：寫給80分女生，提升戀愛力的
+ 不敗思維》
+DTSTART;TZID=Asia/Taipei:20230506T000000
+DTEND;TZID=Asia/Taipei:20230506T235900
+DTSTAMP:20230506T035400Z
+UID:2023-05-06@kobo99
+DESCRIPTION:連結: https://www.kobo.com/tw/zh/ebook/s39PCixekjqfullvGv_is
+ A?utm_source=twblog&utm_medium=list&utm_campaign=dd99_20230506 優惠碼: 
+ koboMay0699
+END:VEVENT
+END:VCALENDAR
