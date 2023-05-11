@@ -1,0 +1,15 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//KOBO 99 calendar//
+BEGIN:VEVENT
+SUMMARY:KOBO99 《從習慣洞察人心—學會識人術， 解決人際
+ 關係的所有煩惱》
+DTSTART;TZID=Asia/Taipei:20230516T000000
+DTEND;TZID=Asia/Taipei:20230516T235900
+DTSTAMP:20230516T035400Z
+UID:2023-05-16@kobo99
+DESCRIPTION:連結: https://www.kobo.com/tw/zh/ebook/n-RCG7Vl7TK4PliMAmdcr
+ Q?utm_source=twblog&utm_medium=list&utm_campaign=dd99_20230516 優惠碼: 
+ koboMay1699
+END:VEVENT
+END:VCALENDAR

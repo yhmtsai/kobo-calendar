@@ -1,0 +1,15 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//KOBO 99 calendar//
+BEGIN:VEVENT
+SUMMARY:KOBO99 《巴比倫理財聖經：穩健創富的12項金律，影
+ 響超過數百萬名讀者的致富經典》
+DTSTART;TZID=Asia/Taipei:20230517T000000
+DTEND;TZID=Asia/Taipei:20230517T235900
+DTSTAMP:20230517T035400Z
+UID:2023-05-17@kobo99
+DESCRIPTION:連結: https://www.kobo.com/tw/zh/ebook/ig0GDtXnDDmRVdYtby7AC
+ A?utm_source=twblog&utm_medium=list&utm_campaign=dd99_20230517 優惠碼: 
+ koboMay1799
+END:VEVENT
+END:VCALENDAR
