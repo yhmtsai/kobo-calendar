@@ -1,0 +1,15 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//KOBO 99 calendar//
+BEGIN:VEVENT
+SUMMARY:KOBO99 《為什麼我們總是掉進消費投資陷阱？：歡
+ 迎來到行為經濟學的世界》
+DTSTART;TZID=Asia/Taipei:20230512T000000
+DTEND;TZID=Asia/Taipei:20230512T235900
+DTSTAMP:20230512T035400Z
+UID:2023-05-12@kobo99
+DESCRIPTION:連結: https://www.kobo.com/tw/zh/ebook/lQYntJ-htTKT8cx0T_QDs
+ w?utm_source=twblog&utm_medium=list&utm_campaign=dd99_20230512 優惠碼: 
+ koboMay1299
+END:VEVENT
+END:VCALENDAR

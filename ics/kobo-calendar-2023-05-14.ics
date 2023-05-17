@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//KOBO 99 calendar//
+BEGIN:VEVENT
+SUMMARY:KOBO99 《藥物讓人上癮：酒精、咖啡因、尼古丁、
+ 鎮靜劑與毒品如何改變我們的大腦與行為（全新增修版
+ ）》
+DTSTART;TZID=Asia/Taipei:20230514T000000
+DTEND;TZID=Asia/Taipei:20230514T235900
+DTSTAMP:20230514T035400Z
+UID:2023-05-14@kobo99
+DESCRIPTION:連結: https://www.kobo.com/tw/zh/ebook/6LF6tJBvYD2vlagJ2slS5
+ g?utm_source=twblog&utm_medium=list&utm_campaign=dd99_20230514 優惠碼: 
+ koboMay1499
+END:VEVENT
+END:VCALENDAR
