@@ -1,0 +1,15 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//KOBO 99 calendar//
+BEGIN:VEVENT
+SUMMARY:KOBO99 《鍵結效應：少數人的念力，如何改變多數
+ 人的生活？》
+DTSTART;TZID=Asia/Taipei:20230518T000000
+DTEND;TZID=Asia/Taipei:20230518T235900
+DTSTAMP:20230518T035400Z
+UID:2023-05-18@kobo99
+DESCRIPTION:連結: https://www.kobo.com/tw/zh/ebook/Weuy0SwzmjO0sjkcOGMy9
+ g?utm_source=twblog&utm_medium=list&utm_campaign=dd99_20230518 優惠碼: 
+ koboMay1899
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,15 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//KOBO 99 calendar//
+BEGIN:VEVENT
+SUMMARY:KOBO99 《2小時讀懂明治維新：十九 世紀日本，翻轉
+ 國家命運的重生傳奇》
+DTSTART;TZID=Asia/Taipei:20230524T000000
+DTEND;TZID=Asia/Taipei:20230524T235900
+DTSTAMP:20230524T035400Z
+UID:2023-05-24@kobo99
+DESCRIPTION:連結: https://www.kobo.com/tw/zh/ebook/NoWM3-tb7TOCVRxS5cpT1
+ g?utm_source=twblog&utm_medium=list&utm_campaign=dd99_20230524 優惠碼: 
+ koboMay2399
+END:VEVENT
+END:VCALENDAR
