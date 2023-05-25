@@ -1,0 +1,14 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//KOBO 99 calendar//
+BEGIN:VEVENT
+SUMMARY:KOBO99 《事件投資法》
+DTSTART;TZID=Asia/Taipei:20230528T000000
+DTEND;TZID=Asia/Taipei:20230528T235900
+DTSTAMP:20230528T035400Z
+UID:2023-05-28@kobo99
+DESCRIPTION:連結: https://www.kobo.com/tw/zh/ebook/TNl8u5gwPjmtCSQ0mQhAD
+ w?utm_source=twblog&utm_medium=list&utm_campaign=dd99_20230528 優惠碼: 
+ koboMay2899
+END:VEVENT
+END:VCALENDAR

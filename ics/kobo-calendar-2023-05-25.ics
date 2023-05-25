@@ -1,0 +1,15 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//KOBO 99 calendar//
+BEGIN:VEVENT
+SUMMARY:KOBO99 《不平等的樣貌：新加坡繁榮神話背後，社
+ 會底層的悲歌》
+DTSTART;TZID=Asia/Taipei:20230525T000000
+DTEND;TZID=Asia/Taipei:20230525T235900
+DTSTAMP:20230525T035400Z
+UID:2023-05-25@kobo99
+DESCRIPTION:連結: https://www.kobo.com/tw/zh/ebook/LXa8xUpfijGldxojNW2lz
+ w?utm_source=twblog&utm_medium=list&utm_campaign=dd99_20230525 優惠碼: 
+ koboMay2599
+END:VEVENT
+END:VCALENDAR

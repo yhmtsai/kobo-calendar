@@ -1,0 +1,15 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//KOBO 99 calendar//
+BEGIN:VEVENT
+SUMMARY:KOBO99 《睡眠外科權威、長庚醫院李學禹醫師告訴
+ 您如何：熟睡迎接每一天！》
+DTSTART;TZID=Asia/Taipei:20230526T000000
+DTEND;TZID=Asia/Taipei:20230526T235900
+DTSTAMP:20230526T035400Z
+UID:2023-05-26@kobo99
+DESCRIPTION:連結: https://www.kobo.com/tw/zh/ebook/ibYzXMpUejSlhz57uAB-N
+ g?utm_source=twblog&utm_medium=list&utm_campaign=dd99_20230526 優惠碼: 
+ koboMay2699
+END:VEVENT
+END:VCALENDAR

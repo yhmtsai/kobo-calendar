@@ -1,0 +1,14 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//KOBO 99 calendar//
+BEGIN:VEVENT
+SUMMARY:KOBO99 《就算很緊張，也要說得很大方》
+DTSTART;TZID=Asia/Taipei:20230531T000000
+DTEND;TZID=Asia/Taipei:20230531T235900
+DTSTAMP:20230531T035400Z
+UID:2023-05-31@kobo99
+DESCRIPTION:連結: https://www.kobo.com/tw/zh/ebook/rZ9fexoISDK10hV1TX0VE
+ w?utm_source=twblog&utm_medium=list&utm_campaign=dd99_20230531 優惠碼: 
+ koboMay3199
+END:VEVENT
+END:VCALENDAR

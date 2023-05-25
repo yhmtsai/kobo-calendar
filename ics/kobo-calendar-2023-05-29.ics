@@ -1,0 +1,15 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//KOBO 99 calendar//
+BEGIN:VEVENT
+SUMMARY:KOBO99 《親愛的，我們還要不要一起走下去？【好
+ 評改版】﹕兩性關係版的《蘇菲的世界》》
+DTSTART;TZID=Asia/Taipei:20230529T000000
+DTEND;TZID=Asia/Taipei:20230529T235900
+DTSTAMP:20230529T035400Z
+UID:2023-05-29@kobo99
+DESCRIPTION:連結: https://www.kobo.com/tw/zh/ebook/qbGJrZKcjzGxe7T363MHc
+ Q?utm_source=twblog&utm_medium=list&utm_campaign=dd99_20230529 優惠碼: 
+ koboMay2999
+END:VEVENT
+END:VCALENDAR
